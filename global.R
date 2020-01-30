@@ -4,9 +4,6 @@ library(tibble)
 library(ggplot2)
 
 
-#library(shinydashboard)
-#library(shinysky)
-
 
 input_file_path = file.path('www','Input')
 (input_file_list = list.files(input_file_path))
